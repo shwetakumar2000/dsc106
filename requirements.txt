@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pandas
+streamlit
+requests
+altair
+vega-datasets==0.7.0
+
+
